@@ -5,4 +5,7 @@ If you want to know more about this course, welcome to view the main page of thi
 
 ![Split](Figures-wiki/split.gif)
 
-Supported by students in this course, especially who are in DII, Kuang Yaming Honors School, Nanjing University.
+In "Figures-wiki", it stores all the figures in wiki; in "biology-wiki", it stores all the wiki(as a textbook of this course). To open **.md file, you need to download a Markdown editor.
+
+
+######Supported by students in this course, especially who are in DII, Kuang Yaming Honors School, Nanjing University.
