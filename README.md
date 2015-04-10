@@ -5,5 +5,6 @@ If you want to know more about this course, welcome to view the main page of thi
 
 And this course also have a [wiki page](https://github.com/taoleechem/biology/wiki) as the textbook of this course.
 
+![Split](Figures-wiki/split.gif)
 
 Supported by students in this course, especially who are in DII, Kuang Yaming Honors School, Nanjing University.
